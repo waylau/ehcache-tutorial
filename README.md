@@ -1,7 +1,7 @@
 # Ehcache Tutorial.《跟老卫学Ehcache开发》
 
 
-![](images/Ehcache_logo.png)
+![](images/Ehcache_Logo.png)
 
 *Ehcache Tutorial*, is a book about how to develop Ehcache applications.
 
