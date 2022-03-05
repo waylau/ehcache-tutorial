@@ -16,6 +16,16 @@
 * [Ehcache基础——Ehcache入门配置](https://developer.huawei.com/consumer/cn/forum/topic/0202817944610930028?fid=23)
 * [Ehcache基础——Ehcache分层缓存](https://developer.huawei.com/consumer/cn/forum/topic/0201817946090540029?fid=23)
 * [Ehcache基础——Ehcache入门示例](https://developer.huawei.com/consumer/cn/forum/topic/0201817947321140031?fid=23)
+* [Ehcache基础——XML配置详解](https://developer.huawei.com/consumer/cn/forum/topic/0202818661550060004?fid=23)
+* [Ehcache基础——JSR-107规范配置详解](https://developer.huawei.com/consumer/cn/forum/topic/0202818662022460005?fid=23)
+* [Ehcache基础——Ehcache XSD](https://developer.huawei.com/consumer/cn/forum/topic/0201818664115910044?fid=23)
+* [Ehcache基础——集群缓存](https://developer.huawei.com/consumer/cn/forum/topic/0201818761496050048?fid=23)
+* [Ehcache进阶——缓存基本术语](https://developer.huawei.com/consumer/cn/forum/topic/0201818846888020051?fid=23)
+* [Ehcache进阶——缓存相关概念](https://developer.huawei.com/consumer/cn/forum/topic/0202818847799730013?fid=23)
+* [Ehcache进阶——缓存使用模式](https://developer.huawei.com/consumer/cn/forum/topic/0202818848188530014?fid=23)
+* [Ehcache高阶——版本迁移](https://developer.huawei.com/consumer/cn/forum/topic/0201818848523940052?fid=23)
+* [Ehcache高阶——缓存过期](https://developer.huawei.com/consumer/cn/forum/topic/0202818848858430015?fid=23)
+* [Ehcache高阶——故障恢复](https://developer.huawei.com/consumer/cn/forum/topic/0202818849444430016?fid=23)
 * 未完待续...
 
 ## Samples 示例
