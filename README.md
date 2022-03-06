@@ -7,7 +7,7 @@
 
 
 
-《跟老卫学Ehcache开发》是一本 Ehcache 应用开发的开源学习教程，主要介绍如何从0开始开发 Ehcache 应用。本书包括最新版本 Ehcache 3.x 中的新特性。图文并茂，并通过大量实例带你走近 Ehcache 的世界！
+《跟老卫学Ehcache开发》是一本 Ehcache 应用开发的开源学习教程，主要介绍如何从0开始开发 Ehcache 应用。本书包括最新版本 [Ehcache 3.x](https://www.ehcache.org/documentation/3.9/) 中的新特性。图文并茂，并通过大量实例带你走近 Ehcache 的世界！
 
 本书业余时间所著，水平有限、时间紧张，难免疏漏，欢迎指正，
 
@@ -26,13 +26,20 @@
 * [Ehcache高阶——版本迁移](https://developer.huawei.com/consumer/cn/forum/topic/0201818848523940052?fid=23)
 * [Ehcache高阶——缓存过期](https://developer.huawei.com/consumer/cn/forum/topic/0202818848858430015?fid=23)
 * [Ehcache高阶——故障恢复](https://developer.huawei.com/consumer/cn/forum/topic/0202818849444430016?fid=23)
-* 未完待续...
+* [Ehcache高阶——线程池](https://developer.huawei.com/consumer/cn/forum/topic/0201819604670150001?fid=23)
+* [Ehcache高阶——序列化器和复印机](https://developer.huawei.com/consumer/cn/forum/topic/0201819604988370002?fid=23)
+* [Ehcache高阶——XA事务](https://developer.huawei.com/consumer/cn/forum/topic/0202819605326280020?fid=23)
+* [Ehcache高阶——加载器和写入器](https://developer.huawei.com/consumer/cn/forum/topic/0201819605631570003?fid=23)
+* [Ehcache高阶——用户管理的缓存](https://developer.huawei.com/consumer/cn/forum/topic/0202819605882030021?fid=23)
+* [Ehcache高阶——缓存事件监听器](https://developer.huawei.com/consumer/cn/forum/topic/0201819606209650004?fid=23)
+* [Ehcache高阶——驱逐顾问](https://developer.huawei.com/consumer/cn/forum/topic/0202819606474530022?fid=23)
+* [Ehcache高阶——类加载](https://developer.huawei.com/consumer/cn/forum/topic/0201819606726170005?fid=23)
+* [Ehcache高阶——OSGi部署](https://developer.huawei.com/consumer/cn/forum/topic/0202819606990510023?fid=23)
+* [Ehcache高阶——配置推导](https://developer.huawei.com/consumer/cn/forum/topic/0201819607257030006?fid=23)
+* [Ehcache高阶——性能调优](https://developer.huawei.com/consumer/cn/forum/topic/0201819607469370007?fid=23)
 
-## Samples 示例
 
-* [Hello World](samples/HelloWorld)
-* 未完待续...
- 
+
 
 ## Get start 如何开始阅读
 
